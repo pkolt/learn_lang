@@ -12,3 +12,7 @@ gcc -o ./bin/learn_lang learn_lang.c
 ```bash
 ./bin/learn_lang
 ```
+
+## License
+
+  [MIT](LICENSE.md)
