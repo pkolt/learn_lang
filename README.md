@@ -1,4 +1,4 @@
-# Pet project for learning English
+# Pet-project for learning foreign language
 
 ## Compile program
 
