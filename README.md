@@ -3,6 +3,7 @@
 ## Compile program
 
 ```bash
+mkdir .bin
 gcc -o ./bin/learn_lang learn_lang.c
 ```
 
